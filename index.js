@@ -7,7 +7,7 @@ app.listen(port, () => {
     console.log(`Listening on port ${port}`);
 })
 
-app.get('/tpath', function(req,res) {
+app.get('/', function(req,res) {
     res.header('Access-Control-Allow-Origin','*');
 
     res.header('`Access-Control-Allow-Methods','GET, POST, OPTIONS, PUT, PATCH, DELETE');
