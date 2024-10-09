@@ -15,6 +15,97 @@ app.get('/', function(req,res) {
     res.header('Ac`cess-Control-Allow-Headers','Origin,Content-Type,X-Requested-With,Accept,Authorization');
     
     res.json(
-        [{"id":26,"img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Ice%20Halohalo%402x.png?alt=media&token=7f3a1705-cb79-433d-94a9-2766b70dff04","imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%207%403x-8.png?alt=media&token=f6c710fa-253c-41f0-8b7a-be3c974f8f12","name":"Fish Fli-tank","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"4","created_at":"2024-09-14T18:30:08.000000Z","updated_at":"2024-09-14T18:30:08.000000Z"},{"id":25,"imageURL":"20240914182905.png","name":"fish left-tank on the trunk","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Women","quantity":"5","created_at":"2024-09-14T18:29:05.000000Z","updated_at":"2024-09-14T18:29:05.000000Z"},{"id":24,"imageURL":"20240911131718.png","name":"Fli Flight Curve Headed","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"5","created_at":"2024-09-11T13:17:18.000000Z","updated_at":"2024-09-11T13:17:18.000000Z"},{"id":23,"imageURL":"20240906153144.jpg","name":"Mumbai Tree house BXY","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"5","created_at":"2024-09-06T15:31:44.000000Z","updated_at":"2024-09-06T21:25:13.000000Z"},{"id":22,"imageURL":"20240906152949.jpg","name":"Cactus Jam In The Path","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"6","created_at":"2024-09-06T15:29:49.000000Z","updated_at":"2024-09-06T15:29:49.000000Z"},{"id":21,"imageURL":"20240906152809.jpg","name":"Ice Cream halo-halo","type":"Basic","price":"850","currency":"php","color":"Black","gender":"Unisex","quantity":"5","created_at":"2024-09-06T15:28:09.000000Z","updated_at":"2024-09-06T15:28:09.000000Z"},{"id":20,"imageURL":"20240906151146.jpg","name":"Flizard Blue-Green With the Zard CXY","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Men","quantity":"6","created_at":"2024-09-06T15:11:46.000000Z","updated_at":"2024-09-06T15:11:46.000000Z"},{"id":19,"imageURL":"20240906151044.jpg","name":"Flizard Red With the Zard BXY","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"6","created_at":"2024-09-06T15:10:44.000000Z","updated_at":"2024-09-06T15:10:44.000000Z"},{"id":18,"imageURL":"20240906150927.jpg","name":"Flizard With the Zard AXY","type":"Basic","price":"750","currency":"php","color":"Black","gender":"Unisex","quantity":"6","created_at":"2024-09-06T15:09:27.000000Z","updated_at":"2024-09-06T15:09:27.000000Z"}]
+        [
+            {
+               "id":34,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%20033%20copy%2014%403x.png?alt=media&token=863a92c4-e04a-439b-836e-b64987056135",
+               "name":"MegaTuff",
+               "type":"Basic",
+               "price":"750",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Women",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"deletefa",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/lv-blck.png?alt=media&token=d17b754d-7ce5-4ee8-bbb6-88819a48e5ea",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Ice%20Halohalo%402x.png?alt=media&token=7f3a1705-cb79-433d-94a9-2766b70dff04",
+               "iconT":"20241006114144icn.png",
+               "created_at":"2024-10-06T11:41:44.000000Z",
+               "updated_at":"2024-10-06T11:41:44.000000Z"
+            },
+            {
+               "id":33,
+               "imageURL":"20241006044938.png",
+               "name":"Route Stop",
+               "type":"Basic",
+               "price":"750",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Women",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Aldin Jalipa",
+               "img01":"20241006044938frnt.png",
+               "img02":"20241006044601bck.png",
+               "iconT":"20241006044938icn.jpg",
+               "created_at":"2024-10-06T04:46:01.000000Z",
+               "updated_at":"2024-10-06T04:49:38.000000Z"
+            },
+            {
+               "id":31,
+               "imageURL":"20241006042919cvr.png",
+               "name":"Halo-halo Ice Cream",
+               "type":"Basic",
+               "price":"750",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Men",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"20241006042919frnt.jpg",
+               "img02":"20241006042919bck.jpg",
+               "iconT":"20241006042919icn.png",
+               "created_at":"2024-10-06T04:29:19.000000Z",
+               "updated_at":"2024-10-06T04:29:19.000000Z"
+            },
+            {
+               "id":30,
+               "imageURL":"20241005171609cvr.png",
+               "name":"Rejected Robert",
+               "type":"Basic",
+               "price":"750",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Unisex",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"FliBuzz",
+               "img01":"20241005171609frnt.png",
+               "img02":"20241005171609bck.png",
+               "iconT":"20241005171609icn.png",
+               "created_at":"2024-10-05T17:16:09.000000Z",
+               "updated_at":"2024-10-05T17:24:30.000000Z"
+            },
+            {
+               "id":29,
+               "imageURL":"20241002155006cvr.png",
+               "name":"wer",
+               "type":"Basic",
+               "price":"750",
+               "currency":"php",
+               "color":"Grey",
+               "gender":"Women",
+               "quantity":"34",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"345defgd",
+               "img01":"20241002155006frnt.png",
+               "img02":"20241002155006bck.png",
+               "iconT":"20241002155006icn.png",
+               "created_at":"2024-10-02T15:50:06.000000Z",
+               "updated_at":"2024-10-02T15:50:06.000000Z"
+            }
+         ]
     )
 })
