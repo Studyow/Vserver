@@ -89,24 +89,6 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-05T17:24:30.000000Z"
             },
             {
-               "id":29,
-               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2065%403x.png?alt=media&token=8a170a0c-962d-48ad-af8a-2ffbe2b7be23",
-               "name":"Route Stop",
-               "type":"Basic",
-               "price":"699",
-               "currency":"php",
-               "color":"Grey",
-               "gender":"Women",
-               "quantity":"34",
-               "sizeT":"md, lg, xl, xxl, xxxl",
-               "ownerID":"Flicue",
-               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2054%403x.png?alt=media&token=534799dc-02fa-4a15-811a-537903d54764",
-               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2044%403x.png?alt=media&token=839c6fce-24e0-4172-b245-248e3b441d1d",
-               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2020%20copy%403x.png?alt=media&token=e1d1a8df-bd46-49ed-8f03-4c52a8dd9e14",
-               "created_at":"2024-10-02T15:50:06.000000Z",
-               "updated_at":"2024-10-02T15:50:06.000000Z"
-            },
-            {
                "id":28,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2057%403x.png?alt=media&token=b66e19df-7ad0-4344-a6d9-4aaa230433c8",
                "name":"Halo-halo Ice-Cream",
