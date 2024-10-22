@@ -90,8 +90,8 @@ app.get('/', function(req,res) {
             },
             {
                "id":28,
-               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2057%403x.png?alt=media&token=b66e19df-7ad0-4344-a6d9-4aaa230433c8",
-               "name":"Halo-halo Ice-Cream",
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny%2065%403x.png?alt=media&token=622043fe-804b-4fe0-a2ee-f46c7435312a",
+               "name":"Dark Bunny Black Oil",
                "type":"Basic",
                "price":"699",
                "currency":"php",
@@ -101,8 +101,8 @@ app.get('/', function(req,res) {
                "sizeT":"md, lg, xl, xxl, xxxl",
                "ownerID":"Flizard",
                "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2054%403x.png?alt=media&token=534799dc-02fa-4a15-811a-537903d54764",
-               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2049%403x.png?alt=media&token=4303c49a-98b1-46a6-8ebb-692a162bea45",
-               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2020%20copy%403x.png?alt=media&token=e1d1a8df-bd46-49ed-8f03-4c52a8dd9e14",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny44%403x.png?alt=media&token=ec7c8cb4-51ef-4fbb-9cb0-b6200e547761",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2061%403x.png?alt=media&token=886d6095-3f33-467c-8d5a-d3d886c77104",
                "created_at":"2024-10-06T04:29:19.000000Z",
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
