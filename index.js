@@ -35,6 +35,24 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T11:41:44.000000Z"
             },
             {
+               "id":28,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny%2065%403x.png?alt=media&token=622043fe-804b-4fe0-a2ee-f46c7435312a",
+               "name":"Dark Bunny Black Oil",
+               "type":"Basic",
+               "price":"699",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Men",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2054%403x.png?alt=media&token=534799dc-02fa-4a15-811a-537903d54764",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny44%403x.png?alt=media&token=ec7c8cb4-51ef-4fbb-9cb0-b6200e547761",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2061%403x.png?alt=media&token=886d6095-3f33-467c-8d5a-d3d886c77104",
+               "created_at":"2024-10-06T04:29:19.000000Z",
+               "updated_at":"2024-10-06T04:29:19.000000Z"
+            },
+            {
                "id":33,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2055%403x.png?alt=media&token=1ff84894-85dc-45aa-8752-dd436a3d6101",
                "name":"Mega Toph",
@@ -88,24 +106,7 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-05T17:16:09.000000Z",
                "updated_at":"2024-10-05T17:24:30.000000Z"
             },
-            {
-               "id":28,
-               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny%2065%403x.png?alt=media&token=622043fe-804b-4fe0-a2ee-f46c7435312a",
-               "name":"Dark Bunny Black Oil",
-               "type":"Basic",
-               "price":"699",
-               "currency":"php",
-               "color":"Black",
-               "gender":"Men",
-               "quantity":"6",
-               "sizeT":"md, lg, xl, xxl, xxxl",
-               "ownerID":"Flizard",
-               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2054%403x.png?alt=media&token=534799dc-02fa-4a15-811a-537903d54764",
-               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny44%403x.png?alt=media&token=ec7c8cb4-51ef-4fbb-9cb0-b6200e547761",
-               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2061%403x.png?alt=media&token=886d6095-3f33-467c-8d5a-d3d886c77104",
-               "created_at":"2024-10-06T04:29:19.000000Z",
-               "updated_at":"2024-10-06T04:29:19.000000Z"
-            },
+            
          ]
     )
 })
