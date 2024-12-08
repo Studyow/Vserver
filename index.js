@@ -88,6 +88,24 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-06T04:29:19.000000Z",
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
+             {
+               "id":36,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/OTHUH%403x.png?alt=media&token=8c67dd28-d052-4b6e-bca9-ee418bd95b01",
+               "name":"JEllOW Not-Soo",
+               "type":"Basic",
+               "price":"600",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Men",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/FRONTHMP%403x.png?alt=media&token=e00125fe-525a-4faa-bbb2-d9085afc4db9",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/BACKTLT%403x.png?alt=media&token=85dff6e9-6997-46b7-b161-3dad7ff89b54",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%205%20copy%203%403x.png?alt=media&token=6db69719-8a4d-4526-9010-043fcfe05630",
+               "created_at":"2024-10-06T04:29:19.000000Z",
+               "updated_at":"2024-10-06T04:29:19.000000Z"
+            },
             {
                "id":30,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2061%403x.png?alt=media&token=886d6095-3f33-467c-8d5a-d3d886c77104",
