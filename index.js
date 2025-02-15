@@ -124,7 +124,24 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-05T17:16:09.000000Z",
                "updated_at":"2024-10-05T17:24:30.000000Z"
             },
-            
+            {
+               "id":31,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/traffic-fa5d6.appspot.com/o/fishgirl%200334%20copy%403x-8.png?alt=media&token=91d116c3-8c56-4721-8739-d6fb34491159",
+               "name":"BUSS Divvaa",
+               "type":"Basic",
+               "price":"260",
+               "currency":"php",
+               "color":"Vibexz_tick",
+               "gender":"Unisex",
+               "quantity":"64",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/traffic-fa5d6.appspot.com/o/fishgirl%200331%403x-8.png?alt=media&token=c5ccc8f4-1bd9-4c17-a89e-a5c10ce8949d",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/traffic-fa5d6.appspot.com/o/fishgirl%200334%403x-8.png?alt=media&token=fac53ed1-b6c4-4889-943f-c85fe7cbcad2",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/traffic-fa5d6.appspot.com/o/Artboard%203%402x.png?alt=media&token=a0e2e6cc-6c33-471a-a980-b71e64609488",
+               "created_at":"2024-10-06T04:29:19.00100Z",
+               "updated_at":"2024-10-06T04:29:19.00001Z"
+            },
          ]
     )
 })
