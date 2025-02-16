@@ -142,6 +142,25 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-06T04:29:19.00100Z",
                "updated_at":"2024-10-06T04:29:19.00001Z"
             },
+            {
+               "id":33,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200331%20copy%205%403x-8.png?alt=media&token=ec308a11-a689-44ef-aaa1-7a28aaedd43b",
+               "name":"Bz-Tapi'n ",
+               "type":"Tiki Lab",
+               "price":"260",
+               "currency":"php",
+               "color":"ViPio_tick",
+               "gender":"Unisex",
+               "quantity":"64",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200331%20copy%203%403x-8.png?alt=media&token=d1f6760b-8dd9-47c1-8970-d8abcf681ab4",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200334%20copy%205%403x-8.png?alt=media&token=85460bb3-cf68-4d90-b85f-72488740ff12",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200334%20copy%207%403x-8.png?alt=media&token=896c5f93-d046-4b18-92c5-0d89e131c9ac",
+               "created_at":"2024-10-06T04:29:19.00100Z",
+               "updated _at":"2024-10-06T04:29:19.00001Z"
+            },
+            
          ]
     )
 })
