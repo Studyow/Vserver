@@ -147,7 +147,7 @@ app.get('/', function(req,res) {
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200331%20copy%205%403x-8.png?alt=media&token=ec308a11-a689-44ef-aaa1-7a28aaedd43b",
                "name":"Bz-Tapi'n ",
                "type":"Tiki Lab",
-               "price":"1,500",
+               "price":"1500",
                "currency":"php",
                "color":"ViPio_tick",
                "gender":"Unisex",
