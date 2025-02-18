@@ -17,24 +17,6 @@ app.get('/', function(req,res) {
     res.json(
         [
             {
-               "id":34,
-               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2063%403x.png?alt=media&token=9e63c83b-fa82-49ad-ab7c-4e95a2ae65f4",
-               "name":"Stewie G Rejected Robert",
-               "type":"Basic",
-               "price":"600",
-               "currency":"php",
-               "color":"Black",
-               "gender":"Men",
-               "quantity":"6",
-               "sizeT":"md, lg, xl, xxl, xxxl",
-               "ownerID":"Fishivy",
-               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2045%403x.png?alt=media&token=a52527bc-ec42-42e5-a61d-b6ff1f25c8d4",
-               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2046%403x.png?alt=media&token=e9903f84-6891-4088-9fdd-b0ce6f43994e",
-               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%205%20copy%202%403x.png?alt=media&token=ca6b6222-4c4a-4523-8076-714d2c62fbf6",
-               "created_at":"2024-10-06T11:41:44.000000Z",
-               "updated_at":"2024-10-06T11:41:44.000000Z"
-            },
-            {
                "id":28,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny%2065%403x.png?alt=media&token=622043fe-804b-4fe0-a2ee-f46c7435312a",
                "name":"Dark Bunny Black Oil",
@@ -52,6 +34,25 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-06T04:29:19.000000Z",
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
+            {
+               "id":34,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2063%403x.png?alt=media&token=9e63c83b-fa82-49ad-ab7c-4e95a2ae65f4",
+               "name":"Stewie G Rejected Robert",
+               "type":"Basic",
+               "price":"600",
+               "currency":"php",
+               "color":"Black",
+               "gender":"Men",
+               "quantity":"6",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Fishivy",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2045%403x.png?alt=media&token=a52527bc-ec42-42e5-a61d-b6ff1f25c8d4",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2046%403x.png?alt=media&token=e9903f84-6891-4088-9fdd-b0ce6f43994e",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%205%20copy%202%403x.png?alt=media&token=ca6b6222-4c4a-4523-8076-714d2c62fbf6",
+               "created_at":"2024-10-06T11:41:44.000000Z",
+               "updated_at":"2024-10-06T11:41:44.000000Z"
+            },
+            
             {
                "id":33,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2055%403x.png?alt=media&token=1ff84894-85dc-45aa-8752-dd436a3d6101",
