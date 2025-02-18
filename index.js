@@ -34,6 +34,24 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-06T04:29:19.000000Z",
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
+             {
+               "id":41,
+               "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/strore%20fni%20jelly%403x-8.png?alt=media&token=a5317213-d719-4a24-a424-89eed5750138",
+               "name":"Jungle'n Vibes ",
+               "type":"jungle beat",
+               "price":"830",
+               "currency":"php",
+               "color":"ViPio_tick",
+               "gender":"Unisex",
+               "quantity":"33",
+               "sizeT":"md, lg, xl, xxl, xxxl",
+               "ownerID":"Flizard",
+               "img01":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/cancel%20bear%20copy%403x-8.png?alt=media&token=b34c0d4f-faf1-472c-8dcd-51b95966b751",
+               "img02":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/stewe%20copy%202%403x-8.png?alt=media&token=d54de033-a4a7-4aa2-a9d5-86a65add8a6c",
+               "iconT":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Aliwata%20Binibini.png?alt=media&token=509230f8-40c5-43d6-8f40-8e2e0c1f1786",
+               "created_at":"2024-10-06T04:29:19.00100Z",
+               "updated _at":"2024-10-06T04:29:19.00001Z"
+            },
             {
                "id":34,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2063%403x.png?alt=media&token=9e63c83b-fa82-49ad-ab7c-4e95a2ae65f4",
@@ -161,6 +179,7 @@ app.get('/', function(req,res) {
                "created_at":"2024-10-06T04:29:19.00100Z",
                "updated _at":"2024-10-06T04:29:19.00001Z"
             },
+            
             
          ]
     )
