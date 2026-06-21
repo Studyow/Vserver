@@ -17,9 +17,9 @@ app.get('/', function(req,res) {
     res.json(
         [
             {
-               "id":28,
+               "id":28_4,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/bunny%2065%403x.png?alt=media&token=622043fe-804b-4fe0-a2ee-f46c7435312a",
-               "name":"Dark Bunny Black Oil",
+               "name":"DaBunny Oil",
                "type":"Basic",
                "price":"600",
                "currency":"php",
@@ -35,9 +35,9 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
              {
-               "id":41,
+               "id":41_5,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/strore%20fni%20jelly%403x-8.png?alt=media&token=a5317213-d719-4a24-a424-89eed5750138",
-               "name":"Jungle'n Vibes ",
+               "name":"Jungle'n Oil ",
                "type":"jungle beat",
                "price":"830",
                "currency":"php",
@@ -53,9 +53,9 @@ app.get('/', function(req,res) {
                "updated _at":"2024-10-06T04:29:19.00001Z"
             },
             {
-               "id":34,
+               "id":34_6,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2063%403x.png?alt=media&token=9e63c83b-fa82-49ad-ab7c-4e95a2ae65f4",
-               "name":"Stewie G Rejected Robert",
+               "name":"Rejected Aush",
                "type":"Basic",
                "price":"600",
                "currency":"php",
@@ -72,9 +72,9 @@ app.get('/', function(req,res) {
             },
             
             {
-               "id":33,
+               "id":33_3,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2055%403x.png?alt=media&token=1ff84894-85dc-45aa-8752-dd436a3d6101",
-               "name":"Mega Toph",
+               "name":"MeTo.ph Oil",
                "type":"Basic",
                "price":"600",
                "currency":"php",
@@ -90,9 +90,9 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T04:49:38.000000Z"
             },
             {
-               "id":31,
+               "id":31.3,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2057%403x.png?alt=media&token=b66e19df-7ad0-4344-a6d9-4aaa230433c8",
-               "name":"Halo-halo Ice-Cream + Flizard",
+               "name":"Harleam Oil",
                "type":"Basic",
                "price":"600",
                "currency":"php",
@@ -108,7 +108,7 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
              {
-               "id":36,
+               "id":36.25,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/OTHUH%403x.png?alt=media&token=8c67dd28-d052-4b6e-bca9-ee418bd95b01",
                "name":"JEllOW Not-Soo",
                "type":"Basic",
@@ -126,7 +126,7 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T04:29:19.000000Z"
             },
             {
-               "id":30,
+               "id":30.36,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/Artboard%2061%403x.png?alt=media&token=886d6095-3f33-467c-8d5a-d3d886c77104",
                "name":"Flying Lizard",
                "type":"Basic",
@@ -144,7 +144,7 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-05T17:24:30.000000Z"
             },
             {
-               "id":31,
+               "id":31_3,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/traffic-fa5d6.appspot.com/o/fishgirl%200334%20copy%403x-8.png?alt=media&token=91d116c3-8c56-4721-8739-d6fb34491159",
                "name":"BUSS Divvaa",
                "type":"Basic",
@@ -162,7 +162,7 @@ app.get('/', function(req,res) {
                "updated_at":"2024-10-06T04:29:19.00001Z"
             },
             {
-               "id":33,
+               "id":33_2,
                "imageURL":"https://firebasestorage.googleapis.com/v0/b/trafficana-3f8ca.appspot.com/o/fishgirl%200331%20copy%205%403x-8.png?alt=media&token=ec308a11-a689-44ef-aaa1-7a28aaedd43b",
                "name":"Bz-Tapi'n ",
                "type":"Tiki Lab",
